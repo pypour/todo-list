@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./Flaticon.ttf") format("truetype"),
+url("./Flaticon.woff") format("woff"),
+url("./Flaticon.woff2") format("woff2"),
+url("./Flaticon.eot") format("embedded-opentype"),
+url("./Flaticon.svg") format("svg");
+}

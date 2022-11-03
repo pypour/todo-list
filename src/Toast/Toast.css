@@ -1,0 +1,11 @@
+.success > div {
+    background-color: #17a2b8 !important;
+}
+
+.error > div {
+    background-color: #c50014 !important;
+}
+
+.warn > div {
+    background-color: #efdc52 !important;
+}
